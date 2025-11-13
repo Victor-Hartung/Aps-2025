@@ -27,7 +27,6 @@ Cada usuário cadastrado possui um nível de acesso (1 a 3), que define quais in
 
 ## Estrutura do Projeto
 
-```text
 biometria/
 ├── biometric_auth.py   # Código principal da aplicação
 ├── users.db            # Banco de dados local (SQLite)
