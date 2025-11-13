@@ -1,4 +1,4 @@
-```markdown
+```
 # EcoCorp Biometric
 
 Sistema de autenticação biométrica facial com níveis de acesso, desenvolvido em Python com interface gráfica em Tkinter.
@@ -39,9 +39,9 @@ biometria/
 
 - Python 3.8 ou superior  
 - Bibliotecas:
-  ```bash
+  ```
   pip install opencv-python numpy pillow
-````
+```
 
 ---
 
@@ -51,7 +51,7 @@ biometria/
 2. Instale as dependências
 3. Execute:
 
-   ```bash
+   ```
    python biometric_auth.py
    ```
 4. Use os botões **“Cadastrar Usuário”** e **“Autenticar”** para interagir com o sistema
