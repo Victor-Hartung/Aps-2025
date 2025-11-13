@@ -25,18 +25,14 @@ Cada usuário cadastrado possui um nível de acesso (1 a 3), que define quais in
 
 ---
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
-```
-
+```text
 biometria/
-│
-├── biometric_auth.py     # Código principal
-├── users.db              # Banco de dados local
-├── users/                # Imagens dos usuários
-└── README.md
-
-````
+├── biometric_auth.py   # Código principal da aplicação
+├── users.db            # Banco de dados local (SQLite)
+├── users/              # Pasta criada automaticamente para armazenar imagens
+└── README.md           # Documentação do projeto
 
 ---
 
