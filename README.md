@@ -76,6 +76,3 @@ biometria/
 * **Tkinter**
 
 ---
-
-Quer que eu te deixe uma **versão ainda mais curta (1 página, estilo portfólio)** ou manter esse formato intermediário (limpo, mas completo)?
-```
