@@ -1,8 +1,3 @@
-Perfeito 👍 você quer um **README mais limpo e direto**, sem muitos ícones ou enfeites — tipo um visual profissional minimalista.
-Aqui vai uma versão simplificada, bonita e clara:
-
----
-
 ```markdown
 # EcoCorp Biometric
 
